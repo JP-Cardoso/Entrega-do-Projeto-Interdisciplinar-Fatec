@@ -42,7 +42,7 @@ Mobile: Flutter
 - [Frontend](https://github.com/JP-Cardoso/front-fatec-pi-VI.git)
 
 # ML em Python:
-- [ML]("")
+- [ML](https://github.com/elivelto7/ml-ideia-analise-de-credito)
 
 ### Githubs dos membros do projeto:
 - [Marcelo Reis](https://github.com/marcelo-ls-reis)
