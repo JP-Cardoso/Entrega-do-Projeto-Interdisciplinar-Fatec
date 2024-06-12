@@ -28,7 +28,7 @@ Para utilizar a API, é necessário seguir o contrato especificado. Isso inclui 
 # Projeto Implementado
 
 ## Tecnologias Utilizadas
-Back-end: Node.js com Express e Flask;   
+Back-end: Node.js com Express e Python com Flask;   
 Front-end: Angular v17;  
 Mobile: Flutter
 
