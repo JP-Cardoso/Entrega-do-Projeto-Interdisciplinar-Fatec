@@ -36,8 +36,8 @@ Mobile: Flutter
 - [Mobile](https://github.com/marcelo-ls-reis/pi_cart-o)
 
 # Projeto Backend
-- [Backend](https://github.com/JP-Cardoso/fatec-pi-VI.git)
-
+- [Backend](https://github.com/JP-Cardoso/projeto-fatec-PI-VI.git)
+  
 # Projeto Frontend
 - [Frontend](https://github.com/JP-Cardoso/front-fatec-pi-VI.git)
 
